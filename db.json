@@ -9,6 +9,31 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "id" :  "93240r33-6hjp-5809-j221-0t6k294188003",
+    "tenantId" : "93240r33-6hjp-5809-j221-0t6k294188003",
+    "username" : "test@test.com",
+    "prefix" : "Mr",
+    "first" : "Chuck",
+    "middle" : "L",
+    "last" : "Norris",
+    "suffix" : "X",
+    "initials" : "CLN",
+    "phone" : "222-222-2222",
+    "status" : "ACTIVE",
+    "expired" : false,
+    "locked" : false,
+    "passwordExpired" : false,
+    "enabled" : true,
+    "userTracking" : {
+      "lastLogInWhen" : "2017-10-02T11:35:57.644-04:00"
+    },
+    "userSettings" : { },
+    "grantedAuthorities" : [ {
+      "authority" : "ROLE_USER"
+    } ],
+    "updateTracking" : {
+      "createdWhen" : "2017-10-02T11:31:51.282042-04:00",
+      "createdWho" : "93240r33-6hjp-5809-j221-0t6k294188003"
+    }
   }
 }
